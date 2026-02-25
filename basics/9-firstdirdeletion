@@ -1,2 +1,3 @@
-#!/bin/bah
+i#!/bin/bah
 rmdir /tmp/my_first_directory
+[file_contains_regex] Pattern not found: ^#!/bin/bash
